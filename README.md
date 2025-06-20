@@ -103,7 +103,7 @@ g++ -std=c++17 -pthread -Iinclude src/*.cpp -o my_redis_server
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/redis.git
+git clone https://github.com/debesh008/Cpp-Redis-Server.git
 cd redis
 
 
